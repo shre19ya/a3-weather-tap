@@ -1,0 +1,16 @@
+Offline synthetic validation; not live or fresh-Hermes evidence.
+test_cli_failure_is_nonzero_and_redacted (test_forecast.WeatherTests.test_cli_failure_is_nonzero_and_redacted) ... ok
+test_current_excludes_expired (test_forecast.WeatherTests.test_current_excludes_expired) ... ok
+test_empty_rejected (test_forecast.WeatherTests.test_empty_rejected) ... ok
+test_future_rejected (test_forecast.WeatherTests.test_future_rejected) ... ok
+test_redirect_handler_rejects (test_forecast.WeatherTests.test_redirect_handler_rejects) ... ok
+test_response_size_limit (test_forecast.WeatherTests.test_response_size_limit) ... ok
+test_stale_rejected (test_forecast.WeatherTests.test_stale_rejected) ... ok
+test_unapproved_urls_fail_before_network (test_forecast.WeatherTests.test_unapproved_urls_fail_before_network) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.015s
+
+OK
+
+Exit status: 0
